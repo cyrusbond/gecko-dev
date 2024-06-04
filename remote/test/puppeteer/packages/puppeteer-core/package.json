@@ -121,7 +121,7 @@
     "@puppeteer/browsers": "1.9.1",
     "chromium-bidi": "0.5.6",
     "cross-fetch": "4.0.0",
-    "debug": "4.3.4",
+    "debug": "4.3.5",
     "devtools-protocol": "0.0.1232444",
     "ws": "8.16.0"
   },
